@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    app:behavior_hideable="false"
+    app:behavior_peekHeight="@dimen/bottomsheet_header_height"
+    android:background="@color/colorPrimaryDark"
+    app:layout_behavior="android.support.design.widget.BottomSheetBehavior"
+    android:id="@+id/llFilters">
+
+    <FrameLayout
+        android:id="@+id/flFiltersHeader"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/bottomsheet_header_height">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical|left"
+            android:layout_marginLeft="40dp"
+            android:textColor="@color/text3"
+            android:textSize="16sp"
+            android:text="@string/price_filter"/>
+
+        <ImageView
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical|left"
+            app:srcCompat="@drawable/ic_filter_list_white"/>
+
+    </FrameLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvFilters"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="8dp"
+        android:paddingBottom="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"/>
+
+    <TextView
+        android:id="@+id/tvClearFilters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:textSize="18sp"
+        android:textColor="@color/text3"
+        android:text="@string/clear_filter"
+        android:textAllCaps="true"
+        android:padding="4dp"
+        android:layout_marginBottom="16dp"/>
+
+</LinearLayout>

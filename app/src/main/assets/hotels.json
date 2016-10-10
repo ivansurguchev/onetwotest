@@ -1,0 +1,362 @@
+[
+	{
+		"id" : 0,
+		"name" : "Шале у Петровича",
+		"price" : 2000
+	},
+	{
+		"id" : 1,
+		"name" : "Шале у Кузьмича",
+		"price" : 2500
+	},
+	{
+		"id" : 2,
+		"name" : "Шале у Иваныча",
+		"price" : 3200
+	},
+	{
+		"id" : 3,
+		"name" : "Бизнес-отель",
+		"price" : 14700
+	},
+	{
+		"id" : 4,
+		"name" : "Звездная ночь",
+		"price" : 6500
+	},
+	{
+		"id" : 5,
+		"name" : "Тысяча номеров",
+		"price" : 1800
+	},
+	{
+		"id" : 6,
+		"name" : "Заповедный лес",
+		"price" : 23000
+	},
+	{
+		"id" : 7,
+		"name" : "Горная река",
+		"price" : 18000
+	},
+	{
+		"id" : 8,
+		"name" : "Снежный рай",
+		"price" : 76000
+	},
+	{
+		"id" : 9,
+		"name" : "Сосновый бор",
+		"price" : 47000
+	},
+	{
+		"id" : 10,
+		"name" : "Backflip hostel",
+		"price" : 1000
+	},
+	{
+		"id" : 11,
+		"name" : "Frontflip hostel",
+		"price" : 2000
+	},
+{
+		"id" : 12,
+		"name" : "Мзымта",
+		"price" : 1200
+	},
+	{
+		"id" : 13,
+		"name" : "Сочи центр",
+		"price" : 190000
+	},
+	{
+		"id" : 14,
+		"name" : "Окраина",
+		"price" : 20000
+	},
+	{
+		"id" : 15,
+		"name" : "Черное море",
+		"price" : 93000
+	},
+	{
+		"id" : 16,
+		"name" : "Южный берег",
+		"price" : 270000
+	},
+	{
+		"id" : 17,
+		"name" : "Северный склон",
+		"price" : 900000
+	},
+	{
+		"id" : 18,
+		"name" : "У Нины",
+		"price" : 34000
+	},
+	{
+		"id" : 18,
+		"name" : "Long ride SPA",
+		"price" : 180000
+	},
+	{
+		"id" : 19,
+		"name" : "Дом из Бревен",
+		"price" : 7000
+	},
+	{
+		"id" : 20,
+		"name" : "Шале",
+		"price" : 230000
+	},
+	{
+		"id" : 21,
+		"name" : "Cheap and beautiful",
+		"price" : 500
+	},
+	{
+		"id" : 22,
+		"name" : "Cheap and ugly",
+		"price" : 500
+	},
+	{
+		"id" : 23,
+		"name" : "Worst Hotels",
+		"price" : 130
+	},
+	{
+		"id" : 24,
+		"name" : "Best Hotels",
+		"price" : 1500000
+	},
+	{
+		"id" : 25,
+		"name" : "Ski and board",
+		"price" : 230000
+	},
+	{
+		"id" : 26,
+		"name" : "Солнце гор",
+		"price" : 5
+	},
+	{
+		"id" : 27,
+		"name" : "Clouds hostel",
+		"price" : 8000000
+	},
+	{
+		"id" : 28,
+		"name" : "European hotels",
+		"price" : 1000000
+	},
+	{
+		"id" : 29,
+		"name" : "Гостевой дом Ведёрко",
+		"price" : 1
+	},
+	{
+		"id" : 30,
+		"name" : "Хостел на Сельской",
+		"price" : 59000
+	},
+	{
+		"id" : 31,
+		"name" : "Пухляк",
+		"price" : 6000
+	},
+	{
+		"id" : 32,
+		"name" : "Горный пейзаж",
+		"price" : 5000
+	},
+	{
+		"id" : 33,
+		"name" : "Дом с привидениями",
+		"price" : 2000
+	},
+	{
+		"id" : 34,
+		"name" : "Ольга",
+		"price" : 732000
+	},
+	{
+		"id" : 35,
+		"name" : "Sochi International",
+		"price" : 66000
+	},
+	{
+		"id" : 36,
+		"name" : "Freeride hostel",
+		"price" : 1000
+	},
+	{
+		"id" : 37,
+		"name" : "Шале на Рябиновой",
+		"price" : 6800
+	},
+	{
+		"id" : 38,
+		"name" : "Awesome Hotel & SPA",
+		"price" : 7000
+	},
+	{
+		"id" : 39,
+		"name" : "Domina Mountain",
+		"price" : 4000000
+	},
+	{
+		"id" : 40,
+		"name" : "Дом у реки",
+		"price" : 17000000
+	},
+	{
+		"id" : 41,
+		"name" : "Красная поляна",
+		"price" : 74000
+	},
+	{
+		"id" : 42,
+		"name" : "Теплый дом",
+		"price" : 1800
+	},
+	{
+		"id" : 43,
+		"name" : "Avalanche",
+		"price" : 77700
+	},
+	{
+		"id" : 44,
+		"name" : "Седьмое небо",
+		"price" : 777777
+	},
+	{
+		"id" : 45,
+		"name" : "Apple hostel",
+		"price" : 10000000
+	},
+	{
+		"id" : 46,
+		"name" : "Droid hostel",
+		"price" : 3000000
+	},
+	{
+		"id" : 47,
+		"name" : "Квартира у Семена",
+		"price" : 2000
+	},
+	{
+		"id" : 48,
+		"name" : "Гостиница",
+		"price" : 43299
+	},
+	{
+		"id" : 49,
+		"name" : "Ковровый рай",
+		"price" : 60000
+	},
+	{
+		"id" : 50,
+		"name" : "Уют",
+		"price" : 130
+	},
+	{
+		"id" : 51,
+		"name" : "Койкоместо",
+		"price" : 100
+	},
+	{
+		"id" : 52,
+		"name" : "Interhotel",
+		"price" : 7000
+	},
+	{
+		"id" : 53,
+		"name" : "Кант",
+		"price" : 2000
+	},
+	{
+		"id" : 54,
+		"name" : "Luxe",
+		"price" : 160000
+	},
+	{
+		"id" : 55,
+		"name" : "Breeze",
+		"price" : 40270
+	},
+	{
+		"id" : 56,
+		"name" : "Center Hostel",
+		"price" : 180000
+	},
+	{
+		"id" : 57,
+		"name" : "Хостел на Шоссейной",
+		"price" : 400000
+	},
+	{
+		"id" : 58,
+		"name" : "2300 meters",
+		"price" : 2300000
+	},
+	{
+		"id" : 59,
+		"name" : "Snow",
+		"price" : 30
+	},
+	{
+		"id" : 60,
+		"name" : "Four seasons",
+		"price" : 62900
+	},
+	{
+		"id" : 61,
+		"name" : "Hilton",
+		"price" : 440000
+	},
+	{
+		"id" : 62,
+		"name" : "Marriott",
+		"price" : 700000
+	},
+	{
+		"id" : 63,
+		"name" : "Снежок",
+		"price" : 500
+	},
+	{
+		"id" : 64,
+		"name" : "Приют лыжника",
+		"price" : 2000
+	},
+	{
+		"id" : 65,
+		"name" : "Ручеек",
+		"price" : 2000
+	},
+	{
+		"id" : 66,
+		"name" : "Гостевой дом на Курской",
+		"price" : 2000
+	},
+	{
+		"id" : 67,
+		"name" : "Кавказ",
+		"price" : 7000
+	},
+	{
+		"id" : 68,
+		"name" : "Березка",
+		"price" : 2200
+	},
+	{
+		"id" : 69,
+		"name" : "Жемчужина",
+		"price" : 130000
+	},
+	{
+		"id" : 70,
+		"name" : "Горный вохдух",
+		"price" : 5000
+	}
+]

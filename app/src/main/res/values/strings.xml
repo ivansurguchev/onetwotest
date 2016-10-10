@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OneTwoTest</string>
+    <string name="price_currency">%1$d руб.</string>
+    <string name="price_filter_range">%1$d - %2$d руб. (%3$d)</string>
+    <string name="price_filter">Фильтр по ценам</string>
+    <string name="no_hotels">Нет отелей</string>
+    <string name="clear_filter">сбросить</string>
+</resources>
